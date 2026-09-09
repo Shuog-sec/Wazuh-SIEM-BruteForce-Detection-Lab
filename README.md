@@ -28,7 +28,6 @@ The Wazuh Manager successfully ingested and processed log data from the Windows 
  Deployment and Configuration of XDR/SIEM Agents.
  Log Ingestion, Event Parsing, and Alarm Generation.
  Operationalizing the MITRE ATT&CK framework for Threat Hunting.
-
 ### 1. Attack Simulation (Red Team)
 ![Kali Attack](1-kali-attack.png)
 
