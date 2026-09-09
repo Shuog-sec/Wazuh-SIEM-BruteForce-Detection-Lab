@@ -24,6 +24,20 @@ hydra -l Administrator -P /usr/share/wordlists/fasttrack.txt smb://10.0.2.7 -V -
 
 📊 Key Findings & SIEM Metrics
 The Wazuh Manager successfully ingested and processed log data from the Windows host, yielding active defense results.
+### 1. Attack Simulation (Red Team)
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/04d79c76-5693-4ad9-8659-37e91ac808af" />
+
+
+### 2. SIEM Threat Hunting Dashboard
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/ece795f3-8c33-4dda-9efe-71665a78007f" />
+
+
+### 3. Security Event Log Breakdown
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/0317b9b5-f312-4351-a959-61148c159675" />
+
+### 4. IT Hygiene & System Overview
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/27c4314d-f91f-4446-8c43-ab8905b95297" />
+
 🛠️ Skills Demonstrated
  Deployment and Configuration of XDR/SIEM Agents.
  Log Ingestion, Event Parsing, and Alarm Generation.
