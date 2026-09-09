@@ -31,15 +31,18 @@ The Wazuh Manager successfully ingested and processed log data from the Windows 
 ---
 
 ### 1. Attack Simulation (Red Team)
-![Kali Attack](1-kali-attack.png)
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/bf30fcd3-d7a0-4b29-86c4-096927305447" />
+
 
 ### 2. SIEM Threat Hunting Dashboard
-![Wazuh Dashboard](2-wazuh-dashboard.png)
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/b53f968f-18ef-4136-8d6e-1f3b2db4f28c" />
 
 ### 3. Security Event Log Breakdown
-![Wazuh Events](3-wazuh-events.png.jpeg)
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/07d07243-c91a-4836-9122-b918af190098" />
+
 
 ### 4. IT Hygiene & System Overview
-![Wazuh IT Hygiene](4-wazuh-it-hygiene.png.jpeg)
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/f582ccff-7be0-4f57-a373-a06a534a5039" />
+
  Controls (Active Firewall Drop vs. Log Generation).
  Forensic Analysis of Windows Authentication Failures.
