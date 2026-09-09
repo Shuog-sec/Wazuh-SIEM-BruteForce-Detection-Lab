@@ -30,12 +30,8 @@ The Wazuh Manager successfully ingested and processed log data from the Windows 
  Operationalizing the MITRE ATT&CK framework for Threat Hunting.
 
 ---
-![Kali Attack](1-kali-attack.png)
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/dde65bcf-72b5-49e2-b86a-229e749c70fb" />
 
-![Wazuh Dashboard](2-wazuh-dashboard.png)
-
-![Wazuh Events](3-wazuh-events.png.jpeg)
-
-![Wazuh IT Hygiene](4-wazuh-it-hygiene.png.jpeg)
+ 
 
 
