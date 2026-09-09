@@ -28,16 +28,14 @@ The Wazuh Manager successfully ingested and processed log data from the Windows 
  Deployment and Configuration of XDR/SIEM Agents.
  Log Ingestion, Event Parsing, and Alarm Generation.
  Operationalizing the MITRE ATT&CK framework for Threat Hunting.
-### 1. Attack Simulation (Red Team)
+
+---
 ![Kali Attack](1-kali-attack.png)
 
-### 2. SIEM Threat Hunting Dashboard
 ![Wazuh Dashboard](2-wazuh-dashboard.png)
 
-### 3. Security Event Log Breakdown
-![Wazuh Events](3-wazuh-events.png.jpeg)
+![Wazuh Events](3-wazuh-events.png)
 
-### 4. IT Hygiene & System Overview
-![Wazuh IT Hygiene](4-wazuh-it-hygiene.png.jpeg)
- Controls (Active Firewall Drop vs. Log Generation).
- Forensic Analysis of Windows Authentication Failures.
+![Wazuh IT Hygiene](4-wazuh-it-hygiene.png)
+
+
