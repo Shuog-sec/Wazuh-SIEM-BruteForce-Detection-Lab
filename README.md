@@ -30,8 +30,12 @@ The Wazuh Manager successfully ingested and processed log data from the Windows 
  Operationalizing the MITRE ATT&CK framework for Threat Hunting.
 
 ---
-<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/dde65bcf-72b5-49e2-b86a-229e749c70fb" />
+![Image](https://github.com/user-attachments/assets/d444f828-121f-46a2-8e77-5bbf33748a6a)
 
- 
+![Image](https://github.com/user-attachments/assets/1f533718-5ef0-49ca-97b7-5c5a3884ef29)
+
+![Image](https://github.com/user-attachments/assets/51d8d7c6-a18f-40d9-ba13-383376ef797d)
+
+<img width="1280" height="960" alt="Image" src="https://github.com/user-attachments/assets/8f41c9e6-c1a1-4f25-9afd-a395f645884a" />
 
 
