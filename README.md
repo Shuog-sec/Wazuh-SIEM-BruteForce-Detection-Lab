@@ -31,11 +31,8 @@ The Wazuh Manager successfully ingested and processed log data from the Windows 
 
 ---
 ![Kali Attack](1-kali-attack.png)
-
 ![Wazuh Dashboard](2-wazuh-dashboard.png)
-
 ![Wazuh Events](3-wazuh-events.png)
-
 ![Wazuh IT Hygiene](4-wazuh-it-hygiene.png)
 
 
